@@ -36,10 +36,10 @@ jobs:
             adb logcat -c
             adb shell monkey -p com.rafapps.rtolearner -c android.intent.category.LAUNCHER 1
             sleep 25
-            adb shell pidof com.rafapps.rtolearner && echo "APP_RUNNING" || echo "APP_NOT_RUNNING"
             adb logcat -d > logcat.txt
             adb exec-out screencap -p > screen.png
-            grep -E "FATAL|AndroidRuntime|flutter|E/|rtolearner" logcat.txt | tail -150
+            grep -E "FATAL|AndroidRuntime|flutter" logcat.txt | tail -80
+            adb shell pidof com.rafapps.rtolearner && echo "APP_RUNNING" || (echo "APP_NOT_RUNNING: the app crashed or closed on launch" && exit 1)
       - uses: actions/upload-artifact@v5
         if: always()
         with:
