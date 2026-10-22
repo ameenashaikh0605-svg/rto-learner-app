@@ -1,0 +1,1855 @@
+{
+ "examId": "us_civics_2025",
+ "title": "US Citizenship Test 2025",
+ "subtitle": "All 128 official civics questions",
+ "mock": {
+  "size": 20,
+  "passMark": 12,
+  "maxWrong": 9
+ },
+ "freeQuestionsPerCategory": 8,
+ "disclaimer": "Not affiliated with USCIS or any government agency. Questions are from the public USCIS 2025 civics test. Answers about current officials can change: check uscis.gov/citizenship/testupdates before your interview.",
+ "categories": [
+  "Principles of American Government",
+  "System of Government",
+  "Rights and Responsibilities",
+  "Colonial Period and Independence",
+  "The 1800s",
+  "Recent American History",
+  "Symbols and Holidays"
+ ],
+ "questions": [
+  {
+   "id": 1,
+   "category": "Principles of American Government",
+   "question": "What is the form of government of the United States?",
+   "correct": "Republic",
+   "wrong": [
+    "Monarchy",
+    "Direct democracy",
+    "Parliamentary kingdom"
+   ],
+   "alsoAccepted": [
+    "Constitution-based federal republic",
+    "Representative democracy"
+   ]
+  },
+  {
+   "id": 2,
+   "category": "Principles of American Government",
+   "question": "What is the supreme law of the land?",
+   "correct": "The U.S. Constitution",
+   "wrong": [
+    "The Declaration of Independence",
+    "The Bill of Rights",
+    "Federal court decisions"
+   ],
+   "alsoAccepted": []
+  },
+  {
+   "id": 3,
+   "category": "Principles of American Government",
+   "question": "Name one thing the U.S. Constitution does.",
+   "correct": "Protects the rights of the people",
+   "wrong": [
+    "Sets the price of goods",
+    "Chooses the president",
+    "Collects state taxes"
+   ],
+   "alsoAccepted": [
+    "Forms the government",
+    "Defines powers of government",
+    "Defines the parts of government"
+   ]
+  },
+  {
+   "id": 4,
+   "category": "Principles of American Government",
+   "question": "The U.S. Constitution starts with the words \"We the People.\" What does \"We the People\" mean?",
+   "correct": "Self-government",
+   "wrong": [
+    "Rule by one king",
+    "Rule by the military",
+    "Rule by the courts"
+   ],
+   "alsoAccepted": [
+    "Popular sovereignty",
+    "Consent of the governed",
+    "People should govern themselves",
+    "(Example of) social contract"
+   ]
+  },
+  {
+   "id": 5,
+   "category": "Principles of American Government",
+   "question": "How are changes made to the U.S. Constitution?",
+   "correct": "Amendments",
+   "wrong": [
+    "Executive orders",
+    "Supreme Court votes",
+    "State elections"
+   ],
+   "alsoAccepted": [
+    "The amendment process"
+   ]
+  },
+  {
+   "id": 6,
+   "category": "Principles of American Government",
+   "question": "What does the Bill of Rights protect?",
+   "correct": "The basic rights of Americans",
+   "wrong": [
+    "The powers of the president",
+    "The rights of the states only",
+    "The budget of Congress"
+   ],
+   "alsoAccepted": [
+    "The basic rights of people living in the United States"
+   ]
+  },
+  {
+   "id": 7,
+   "category": "Principles of American Government",
+   "question": "How many amendments does the U.S. Constitution have?",
+   "correct": "27",
+   "wrong": [
+    "10",
+    "21",
+    "33"
+   ],
+   "alsoAccepted": [
+    "Twenty-seven"
+   ]
+  },
+  {
+   "id": 8,
+   "category": "Principles of American Government",
+   "question": "Why is the Declaration of Independence important?",
+   "correct": "It says all people are created equal.",
+   "wrong": [
+    "It created the Supreme Court.",
+    "It ended the Civil War.",
+    "It set up the U.S. Congress."
+   ],
+   "alsoAccepted": [
+    "It says America is free from British control.",
+    "It identifies inherent rights.",
+    "It identifies individual freedoms."
+   ]
+  },
+  {
+   "id": 9,
+   "category": "Principles of American Government",
+   "question": "What founding document said the American colonies were free from Britain?",
+   "correct": "Declaration of Independence",
+   "wrong": [
+    "Articles of Confederation",
+    "U.S. Constitution",
+    "Federalist Papers"
+   ],
+   "alsoAccepted": []
+  },
+  {
+   "id": 10,
+   "category": "Principles of American Government",
+   "question": "Name two important ideas from the Declaration of Independence and the U.S. Constitution.",
+   "correct": "Equality and liberty",
+   "wrong": [
+    "Taxes and trade",
+    "Monarchy and nobility",
+    "Religion and military service"
+   ],
+   "alsoAccepted": [
+    "Social contract",
+    "Natural rights",
+    "Limited government",
+    "Self-government"
+   ]
+  },
+  {
+   "id": 11,
+   "category": "Principles of American Government",
+   "question": "The words \"Life, Liberty, and the pursuit of Happiness\" are in what founding document?",
+   "correct": "Declaration of Independence",
+   "wrong": [
+    "U.S. Constitution",
+    "Bill of Rights",
+    "Emancipation Proclamation"
+   ],
+   "alsoAccepted": []
+  },
+  {
+   "id": 12,
+   "category": "Principles of American Government",
+   "question": "What is the economic system of the United States?",
+   "correct": "Capitalism",
+   "wrong": [
+    "Socialism",
+    "Communism",
+    "Feudalism"
+   ],
+   "alsoAccepted": [
+    "Free market economy"
+   ]
+  },
+  {
+   "id": 13,
+   "category": "Principles of American Government",
+   "question": "What is the rule of law?",
+   "correct": "No one is above the law.",
+   "wrong": [
+    "The president makes all laws.",
+    "Only citizens must follow the law.",
+    "Courts can ignore the law."
+   ],
+   "alsoAccepted": [
+    "Everyone must follow the law.",
+    "Leaders must obey the law.",
+    "Government must obey the law."
+   ]
+  },
+  {
+   "id": 14,
+   "category": "Principles of American Government",
+   "question": "Many documents influenced the U.S. Constitution. Name one.",
+   "correct": "Articles of Confederation",
+   "wrong": [
+    "Emancipation Proclamation",
+    "Gettysburg Address",
+    "Monroe Doctrine"
+   ],
+   "alsoAccepted": [
+    "Declaration of Independence",
+    "Federalist Papers",
+    "Anti-Federalist Papers",
+    "Virginia Declaration of Rights",
+    "Fundamental Orders of Connecticut",
+    "Mayflower Compact",
+    "Iroquois Great Law of Peace"
+   ]
+  },
+  {
+   "id": 15,
+   "category": "Principles of American Government",
+   "question": "There are three branches of government. Why?",
+   "correct": "So one part does not become too powerful",
+   "wrong": [
+    "To make laws faster",
+    "So each state has its own branch",
+    "To save money"
+   ],
+   "alsoAccepted": [
+    "Checks and balances",
+    "Separation of powers"
+   ]
+  },
+  {
+   "id": 16,
+   "category": "System of Government",
+   "question": "Name the three branches of government.",
+   "correct": "Legislative, executive, and judicial",
+   "wrong": [
+    "Federal, state, and local",
+    "Army, navy, and air force",
+    "Senate, House, and Cabinet"
+   ],
+   "alsoAccepted": [
+    "Congress, president, and the courts"
+   ]
+  },
+  {
+   "id": 17,
+   "category": "System of Government",
+   "question": "The President of the United States is in charge of which branch of government?",
+   "correct": "Executive branch",
+   "wrong": [
+    "Legislative branch",
+    "Judicial branch",
+    "State branch"
+   ],
+   "alsoAccepted": []
+  },
+  {
+   "id": 18,
+   "category": "System of Government",
+   "question": "What part of the federal government writes laws?",
+   "correct": "U.S. Congress",
+   "wrong": [
+    "The president",
+    "The Supreme Court",
+    "The Cabinet"
+   ],
+   "alsoAccepted": [
+    "(U.S. or national) legislature",
+    "Legislative branch"
+   ]
+  },
+  {
+   "id": 19,
+   "category": "System of Government",
+   "question": "What are the two parts of the U.S. Congress?",
+   "correct": "Senate and House of Representatives",
+   "wrong": [
+    "President and Vice President",
+    "Supreme Court and federal courts",
+    "Cabinet and Senate"
+   ],
+   "alsoAccepted": []
+  },
+  {
+   "id": 20,
+   "category": "System of Government",
+   "question": "Name one power of the U.S. Congress.",
+   "correct": "Declares war",
+   "wrong": [
+    "Vetoes bills",
+    "Appoints federal judges",
+    "Issues driver's licenses"
+   ],
+   "alsoAccepted": [
+    "Writes laws",
+    "Makes the federal budget"
+   ]
+  },
+  {
+   "id": 21,
+   "category": "System of Government",
+   "question": "How many U.S. senators are there?",
+   "correct": "100",
+   "wrong": [
+    "50",
+    "435",
+    "535"
+   ],
+   "alsoAccepted": [
+    "One hundred"
+   ]
+  },
+  {
+   "id": 22,
+   "category": "System of Government",
+   "question": "How long is a term for a U.S. senator?",
+   "correct": "6 years",
+   "wrong": [
+    "2 years",
+    "4 years",
+    "For life"
+   ],
+   "alsoAccepted": []
+  },
+  {
+   "id": 23,
+   "category": "System of Government",
+   "question": "Who is one of your state's U.S. senators now?",
+   "studyOnly": true,
+   "note": "Answers will vary by state. D.C. and U.S. territory residents should say they have no U.S. senators."
+  },
+  {
+   "id": 24,
+   "category": "System of Government",
+   "question": "How many voting members are in the House of Representatives?",
+   "correct": "435",
+   "wrong": [
+    "100",
+    "50",
+    "538"
+   ],
+   "alsoAccepted": [
+    "Four hundred thirty-five"
+   ]
+  },
+  {
+   "id": 25,
+   "category": "System of Government",
+   "question": "How long is a term for a member of the House of Representatives?",
+   "correct": "2 years",
+   "wrong": [
+    "4 years",
+    "6 years",
+    "8 years"
+   ],
+   "alsoAccepted": []
+  },
+  {
+   "id": 26,
+   "category": "System of Government",
+   "question": "Why do U.S. representatives serve shorter terms than U.S. senators?",
+   "correct": "To more closely follow public opinion",
+   "wrong": [
+    "Because they are younger",
+    "To save government money",
+    "Because the president chooses them"
+   ],
+   "alsoAccepted": []
+  },
+  {
+   "id": 27,
+   "category": "System of Government",
+   "question": "How many senators does each state have?",
+   "correct": "2",
+   "wrong": [
+    "1",
+    "4",
+    "It depends on population"
+   ],
+   "alsoAccepted": []
+  },
+  {
+   "id": 28,
+   "category": "System of Government",
+   "question": "Why does each state have two senators?",
+   "correct": "Equal representation for small states",
+   "wrong": [
+    "Because of each state's population",
+    "One for each political party",
+    "The president decides"
+   ],
+   "alsoAccepted": [
+    "The Great Compromise (Connecticut Compromise)"
+   ]
+  },
+  {
+   "id": 29,
+   "category": "System of Government",
+   "question": "Name your U.S. representative.",
+   "studyOnly": true,
+   "note": "Answers will vary by district. Territory residents may name their nonvoting Delegate or Resident Commissioner, or say the territory has no voting representative."
+  },
+  {
+   "id": 30,
+   "category": "System of Government",
+   "question": "What is the name of the Speaker of the House of Representatives now?",
+   "correct": "Mike Johnson",
+   "wrong": [
+    "Nancy Pelosi",
+    "Chuck Schumer",
+    "Kevin McCarthy"
+   ],
+   "alsoAccepted": [
+    "This answer can change. Check uscis.gov/citizenship/testupdates before your interview."
+   ]
+  },
+  {
+   "id": 31,
+   "category": "System of Government",
+   "question": "Who does a U.S. senator represent?",
+   "correct": "Citizens of their state",
+   "wrong": [
+    "Only the people who voted for them",
+    "The president",
+    "Their political party"
+   ],
+   "alsoAccepted": [
+    "People of their state"
+   ]
+  },
+  {
+   "id": 32,
+   "category": "System of Government",
+   "question": "Who elects U.S. senators?",
+   "correct": "Citizens from their state",
+   "wrong": [
+    "The House of Representatives",
+    "The state governor",
+    "The president"
+   ],
+   "alsoAccepted": []
+  },
+  {
+   "id": 33,
+   "category": "System of Government",
+   "question": "Who does a member of the House of Representatives represent?",
+   "correct": "Citizens in their congressional district",
+   "wrong": [
+    "Everyone in the country",
+    "The state governor",
+    "Only members of their party"
+   ],
+   "alsoAccepted": [
+    "People from their (congressional) district",
+    "People in their district"
+   ]
+  },
+  {
+   "id": 34,
+   "category": "System of Government",
+   "question": "Who elects members of the House of Representatives?",
+   "correct": "Citizens from their congressional district",
+   "wrong": [
+    "The Senate",
+    "The state legislature",
+    "The president"
+   ],
+   "alsoAccepted": []
+  },
+  {
+   "id": 35,
+   "category": "System of Government",
+   "question": "Some states have more representatives than other states. Why?",
+   "correct": "Because of the state's population",
+   "wrong": [
+    "Because of the state's size in land",
+    "Because they are older states",
+    "Because they pay more taxes"
+   ],
+   "alsoAccepted": [
+    "(Because) they have more people",
+    "(Because) some states have more people"
+   ]
+  },
+  {
+   "id": 36,
+   "category": "System of Government",
+   "question": "The President of the United States is elected for how many years?",
+   "correct": "4 years",
+   "wrong": [
+    "2 years",
+    "6 years",
+    "8 years"
+   ],
+   "alsoAccepted": []
+  },
+  {
+   "id": 37,
+   "category": "System of Government",
+   "question": "The President of the United States can serve only two terms. Why?",
+   "correct": "Because of the 22nd Amendment",
+   "wrong": [
+    "Because of the 1st Amendment",
+    "Because the Supreme Court decided it",
+    "Because of the Bill of Rights"
+   ],
+   "alsoAccepted": [
+    "To keep the president from becoming too powerful"
+   ]
+  },
+  {
+   "id": 38,
+   "category": "System of Government",
+   "question": "What is the name of the President of the United States now?",
+   "correct": "Donald Trump",
+   "wrong": [
+    "Joe Biden",
+    "Barack Obama",
+    "JD Vance"
+   ],
+   "alsoAccepted": [
+    "This answer can change. Check uscis.gov/citizenship/testupdates before your interview."
+   ]
+  },
+  {
+   "id": 39,
+   "category": "System of Government",
+   "question": "What is the name of the Vice President of the United States now?",
+   "correct": "JD Vance",
+   "wrong": [
+    "Kamala Harris",
+    "Mike Pence",
+    "Mike Johnson"
+   ],
+   "alsoAccepted": [
+    "This answer can change. Check uscis.gov/citizenship/testupdates before your interview."
+   ]
+  },
+  {
+   "id": 40,
+   "category": "System of Government",
+   "question": "If the president can no longer serve, who becomes president?",
+   "correct": "The Vice President",
+   "wrong": [
+    "The Speaker of the House",
+    "The Chief Justice",
+    "The Secretary of State"
+   ],
+   "alsoAccepted": []
+  },
+  {
+   "id": 41,
+   "category": "System of Government",
+   "question": "Name one power of the president.",
+   "correct": "Vetoes bills",
+   "wrong": [
+    "Writes laws",
+    "Declares war",
+    "Decides if laws are constitutional"
+   ],
+   "alsoAccepted": [
+    "Signs bills into law",
+    "Enforces laws",
+    "Commander in Chief (of the military)",
+    "Chief diplomat",
+    "Appoints federal judges"
+   ]
+  },
+  {
+   "id": 42,
+   "category": "System of Government",
+   "question": "Who is Commander in Chief of the U.S. military?",
+   "correct": "The President",
+   "wrong": [
+    "The Vice President",
+    "The Secretary of Defense",
+    "The Speaker of the House"
+   ],
+   "alsoAccepted": []
+  },
+  {
+   "id": 43,
+   "category": "System of Government",
+   "question": "Who signs bills to become laws?",
+   "correct": "The President",
+   "wrong": [
+    "The Chief Justice",
+    "The Speaker of the House",
+    "The Vice President"
+   ],
+   "alsoAccepted": []
+  },
+  {
+   "id": 44,
+   "category": "System of Government",
+   "question": "Who vetoes bills?",
+   "correct": "The President",
+   "wrong": [
+    "The Senate",
+    "The Supreme Court",
+    "The governors"
+   ],
+   "alsoAccepted": []
+  },
+  {
+   "id": 45,
+   "category": "System of Government",
+   "question": "Who appoints federal judges?",
+   "correct": "The President",
+   "wrong": [
+    "The Senate",
+    "The voters",
+    "The states"
+   ],
+   "alsoAccepted": []
+  },
+  {
+   "id": 46,
+   "category": "System of Government",
+   "question": "Name one part of the executive branch.",
+   "correct": "The Cabinet",
+   "wrong": [
+    "The Senate",
+    "The Supreme Court",
+    "The House of Representatives"
+   ],
+   "alsoAccepted": [
+    "President",
+    "Federal departments and agencies"
+   ]
+  },
+  {
+   "id": 47,
+   "category": "System of Government",
+   "question": "What does the President's Cabinet do?",
+   "correct": "Advises the president",
+   "wrong": [
+    "Writes laws",
+    "Elects the president",
+    "Decides court cases"
+   ],
+   "alsoAccepted": []
+  },
+  {
+   "id": 48,
+   "category": "System of Government",
+   "question": "Name two Cabinet-level positions.",
+   "correct": "Secretary of State and Attorney General",
+   "wrong": [
+    "Speaker of the House and Chief Justice",
+    "Governor and Mayor",
+    "Senator and Representative"
+   ],
+   "alsoAccepted": [
+    "Also: Secretary of Agriculture, Commerce, Defense, Education, Energy, Health and Human Services, Homeland Security, Housing and Urban Development, the Interior, Labor, Transportation, the Treasury, Veterans Affairs; Vice President; EPA Administrator; SBA Administrator; CIA Director; OMB Director; Director of National Intelligence; U.S. Trade Representative"
+   ]
+  },
+  {
+   "id": 49,
+   "category": "System of Government",
+   "question": "Why is the Electoral College important?",
+   "correct": "It decides who is elected president.",
+   "wrong": [
+    "It chooses Supreme Court justices.",
+    "It writes federal laws.",
+    "It counts the census."
+   ],
+   "alsoAccepted": [
+    "It provides a compromise between the popular election of the president and congressional selection."
+   ]
+  },
+  {
+   "id": 50,
+   "category": "System of Government",
+   "question": "Name one part of the judicial branch.",
+   "correct": "Supreme Court",
+   "wrong": [
+    "Congress",
+    "The Cabinet",
+    "The Electoral College"
+   ],
+   "alsoAccepted": [
+    "Federal courts"
+   ]
+  },
+  {
+   "id": 51,
+   "category": "System of Government",
+   "question": "What does the judicial branch do?",
+   "correct": "Decides whether a law goes against the Constitution",
+   "wrong": [
+    "Writes laws",
+    "Signs laws",
+    "Collects taxes"
+   ],
+   "alsoAccepted": [
+    "Reviews laws",
+    "Explains laws",
+    "Resolves disputes (disagreements) about the law"
+   ]
+  },
+  {
+   "id": 52,
+   "category": "System of Government",
+   "question": "What is the highest court in the United States?",
+   "correct": "Supreme Court",
+   "wrong": [
+    "Federal Court of Appeals",
+    "District Court",
+    "State Supreme Court"
+   ],
+   "alsoAccepted": []
+  },
+  {
+   "id": 53,
+   "category": "System of Government",
+   "question": "How many seats are on the Supreme Court?",
+   "correct": "9",
+   "wrong": [
+    "7",
+    "12",
+    "15"
+   ],
+   "alsoAccepted": [
+    "Nine"
+   ]
+  },
+  {
+   "id": 54,
+   "category": "System of Government",
+   "question": "How many Supreme Court justices are usually needed to decide a case?",
+   "correct": "5",
+   "wrong": [
+    "3",
+    "7",
+    "9"
+   ],
+   "alsoAccepted": [
+    "Five"
+   ]
+  },
+  {
+   "id": 55,
+   "category": "System of Government",
+   "question": "How long do Supreme Court justices serve?",
+   "correct": "For life",
+   "wrong": [
+    "4 years",
+    "10 years",
+    "Until the next president"
+   ],
+   "alsoAccepted": [
+    "Lifetime appointment",
+    "Until retirement"
+   ]
+  },
+  {
+   "id": 56,
+   "category": "System of Government",
+   "question": "Why do Supreme Court justices serve for life?",
+   "correct": "To be independent of politics",
+   "wrong": [
+    "Because they are elected",
+    "To save money on elections",
+    "Because the Constitution requires them to be old"
+   ],
+   "alsoAccepted": [
+    "To limit outside (political) influence"
+   ]
+  },
+  {
+   "id": 57,
+   "category": "System of Government",
+   "question": "Who is the Chief Justice of the United States now?",
+   "correct": "John Roberts",
+   "wrong": [
+    "Clarence Thomas",
+    "Sonia Sotomayor",
+    "Brett Kavanaugh"
+   ],
+   "alsoAccepted": [
+    "This answer can change. Check uscis.gov/citizenship/testupdates before your interview."
+   ]
+  },
+  {
+   "id": 58,
+   "category": "System of Government",
+   "question": "Name one power that is only for the federal government.",
+   "correct": "Print paper money",
+   "wrong": [
+    "Issue driver's licenses",
+    "Provide schooling",
+    "Approve zoning"
+   ],
+   "alsoAccepted": [
+    "Mint coins",
+    "Declare war",
+    "Create an army",
+    "Make treaties",
+    "Set foreign policy"
+   ]
+  },
+  {
+   "id": 59,
+   "category": "System of Government",
+   "question": "Name one power that is only for the states.",
+   "correct": "Give a driver's license",
+   "wrong": [
+    "Print money",
+    "Declare war",
+    "Make treaties"
+   ],
+   "alsoAccepted": [
+    "Provide schooling and education",
+    "Provide protection (police)",
+    "Provide safety (fire departments)",
+    "Approve zoning and land use"
+   ]
+  },
+  {
+   "id": 60,
+   "category": "System of Government",
+   "question": "What is the purpose of the 10th Amendment?",
+   "correct": "Powers not given to the federal government belong to the states or the people",
+   "wrong": [
+    "It gives women the right to vote",
+    "It ends slavery",
+    "It limits the president to two terms"
+   ],
+   "alsoAccepted": []
+  },
+  {
+   "id": 61,
+   "category": "System of Government",
+   "question": "Who is the governor of your state now?",
+   "studyOnly": true,
+   "note": "Answers will vary by state. D.C. residents should say D.C. does not have a governor."
+  },
+  {
+   "id": 62,
+   "category": "System of Government",
+   "question": "What is the capital of your state?",
+   "studyOnly": true,
+   "note": "Answers will vary by state. D.C. residents should say D.C. is not a state. Territory residents name the territory's capital."
+  },
+  {
+   "id": 63,
+   "category": "Rights and Responsibilities",
+   "question": "There are four amendments to the U.S. Constitution about who can vote. Describe one of them.",
+   "correct": "Citizens eighteen (18) and older can vote.",
+   "wrong": [
+    "Only property owners can vote.",
+    "Citizens must pass a test to vote.",
+    "Only men can vote."
+   ],
+   "alsoAccepted": [
+    "You don't have to pay (a poll tax) to vote.",
+    "Any citizen can vote. (Women and men can vote.)",
+    "A male citizen of any race can vote."
+   ]
+  },
+  {
+   "id": 64,
+   "category": "Rights and Responsibilities",
+   "question": "Who can vote in federal elections, run for federal office, and serve on a jury in the United States?",
+   "correct": "U.S. citizens",
+   "wrong": [
+    "Green card holders",
+    "Anyone living in the U.S.",
+    "Tourists with a visa"
+   ],
+   "alsoAccepted": [
+    "Citizens"
+   ]
+  },
+  {
+   "id": 65,
+   "category": "Rights and Responsibilities",
+   "question": "What are three rights of everyone living in the United States?",
+   "correct": "Freedom of speech, freedom of religion, freedom of assembly",
+   "wrong": [
+    "Right to vote, run for office, serve on a jury",
+    "Free housing, free cars, free food",
+    "Right to a passport, a pension, and a job"
+   ],
+   "alsoAccepted": [
+    "Freedom of expression",
+    "Freedom to petition the government",
+    "The right to bear arms"
+   ]
+  },
+  {
+   "id": 66,
+   "category": "Rights and Responsibilities",
+   "question": "What do we show loyalty to when we say the Pledge of Allegiance?",
+   "correct": "The United States",
+   "wrong": [
+    "The president",
+    "Our state",
+    "Our political party"
+   ],
+   "alsoAccepted": [
+    "The flag"
+   ]
+  },
+  {
+   "id": 67,
+   "category": "Rights and Responsibilities",
+   "question": "Name two promises that new citizens make in the Oath of Allegiance.",
+   "correct": "Obey the laws of the United States and defend the Constitution",
+   "wrong": [
+    "Vote in every election and join a party",
+    "Live in the U.S. for 10 years and own property",
+    "Learn English and pay state taxes"
+   ],
+   "alsoAccepted": [
+    "Give up loyalty to other countries",
+    "Serve in the military (if needed)",
+    "Serve (do important work for) the nation (if needed)",
+    "Be loyal to the United States"
+   ]
+  },
+  {
+   "id": 68,
+   "category": "Rights and Responsibilities",
+   "question": "How can people become United States citizens?",
+   "correct": "Naturalize",
+   "wrong": [
+    "Buy property in the U.S.",
+    "Live in the U.S. for one year",
+    "Get a driver's license"
+   ],
+   "alsoAccepted": [
+    "Be born in the United States, under the conditions set by the 14th Amendment",
+    "Derive citizenship (under conditions set by Congress)"
+   ]
+  },
+  {
+   "id": 69,
+   "category": "Rights and Responsibilities",
+   "question": "What are two examples of civic participation in the United States?",
+   "correct": "Vote and join a community group",
+   "wrong": [
+    "Watch TV and go shopping",
+    "Travel abroad and learn a language",
+    "Buy a house and a car"
+   ],
+   "alsoAccepted": [
+    "Run for office",
+    "Join a political party",
+    "Help with a campaign",
+    "Join a civic group",
+    "Give an elected official your opinion",
+    "Contact elected officials",
+    "Support or oppose an issue or policy",
+    "Write to a newspaper"
+   ]
+  },
+  {
+   "id": 70,
+   "category": "Rights and Responsibilities",
+   "question": "What is one way Americans can serve their country?",
+   "correct": "Serve in the military",
+   "wrong": [
+    "Leave the country",
+    "Ignore elections",
+    "Avoid paying taxes"
+   ],
+   "alsoAccepted": [
+    "Vote",
+    "Pay taxes",
+    "Obey the law",
+    "Run for office",
+    "Work for local, state, or federal government"
+   ]
+  },
+  {
+   "id": 71,
+   "category": "Rights and Responsibilities",
+   "question": "Why is it important to pay federal taxes?",
+   "correct": "Required by law",
+   "wrong": [
+    "So you can vote",
+    "So you get a passport",
+    "It is optional"
+   ],
+   "alsoAccepted": [
+    "All people pay to fund the federal government",
+    "Required by the (U.S.) Constitution (16th Amendment)",
+    "Civic duty"
+   ]
+  },
+  {
+   "id": 72,
+   "category": "Rights and Responsibilities",
+   "question": "It is important for all men age 18 through 25 to register for the Selective Service. Name one reason why.",
+   "correct": "Required by law",
+   "wrong": [
+    "To get a driver's license",
+    "To get free college",
+    "To vote in elections"
+   ],
+   "alsoAccepted": [
+    "Civic duty",
+    "Makes the draft fair, if needed"
+   ]
+  },
+  {
+   "id": 73,
+   "category": "Colonial Period and Independence",
+   "question": "The colonists came to America for many reasons. Name one.",
+   "correct": "Religious freedom",
+   "wrong": [
+    "To find a king",
+    "To join the British army",
+    "To escape the Civil War"
+   ],
+   "alsoAccepted": [
+    "Freedom",
+    "Political liberty",
+    "Economic opportunity",
+    "Escape persecution"
+   ]
+  },
+  {
+   "id": 74,
+   "category": "Colonial Period and Independence",
+   "question": "Who lived in America before the Europeans arrived?",
+   "correct": "American Indians",
+   "wrong": [
+    "The French",
+    "The Spanish",
+    "The Dutch"
+   ],
+   "alsoAccepted": [
+    "Native Americans"
+   ]
+  },
+  {
+   "id": 75,
+   "category": "Colonial Period and Independence",
+   "question": "What group of people was taken and sold as slaves?",
+   "correct": "Africans",
+   "wrong": [
+    "Europeans",
+    "Asians",
+    "Australians"
+   ],
+   "alsoAccepted": [
+    "People from Africa"
+   ]
+  },
+  {
+   "id": 76,
+   "category": "Colonial Period and Independence",
+   "question": "What war did the Americans fight to win independence from Britain?",
+   "correct": "The American Revolution",
+   "wrong": [
+    "The Civil War",
+    "The War of 1812",
+    "World War I"
+   ],
+   "alsoAccepted": [
+    "The (American) Revolutionary War",
+    "War for (American) Independence"
+   ]
+  },
+  {
+   "id": 77,
+   "category": "Colonial Period and Independence",
+   "question": "Name one reason why the Americans declared independence from Britain.",
+   "correct": "Taxation without representation",
+   "wrong": [
+    "The Civil War",
+    "To end slavery",
+    "To buy Louisiana"
+   ],
+   "alsoAccepted": [
+    "High taxes",
+    "British soldiers stayed in Americans' houses (boarding, quartering)",
+    "They did not have self-government",
+    "Boston Massacre",
+    "Boston Tea Party (Tea Act)",
+    "Stamp Act",
+    "Sugar Act",
+    "Townshend Acts",
+    "Intolerable (Coercive) Acts"
+   ]
+  },
+  {
+   "id": 78,
+   "category": "Colonial Period and Independence",
+   "question": "Who wrote the Declaration of Independence?",
+   "correct": "Thomas Jefferson",
+   "wrong": [
+    "George Washington",
+    "Abraham Lincoln",
+    "Benjamin Franklin"
+   ],
+   "alsoAccepted": []
+  },
+  {
+   "id": 79,
+   "category": "Colonial Period and Independence",
+   "question": "When was the Declaration of Independence adopted?",
+   "correct": "July 4, 1776",
+   "wrong": [
+    "July 4, 1787",
+    "September 17, 1787",
+    "July 4, 1812"
+   ],
+   "alsoAccepted": []
+  },
+  {
+   "id": 80,
+   "category": "Colonial Period and Independence",
+   "question": "The American Revolution had many important events. Name one.",
+   "correct": "Battle of Yorktown",
+   "wrong": [
+    "Battle of Gettysburg",
+    "Pearl Harbor",
+    "Louisiana Purchase"
+   ],
+   "alsoAccepted": [
+    "(Battle of) Bunker Hill",
+    "Declaration of Independence",
+    "Washington Crossing the Delaware (Battle of Trenton)",
+    "(Battle of) Saratoga",
+    "Valley Forge (Encampment)"
+   ]
+  },
+  {
+   "id": 81,
+   "category": "Colonial Period and Independence",
+   "question": "There were 13 original states. Name five.",
+   "correct": "New York, Virginia, Georgia, Delaware, Maryland",
+   "wrong": [
+    "Texas, California, Florida, Ohio, Maine",
+    "New York, Texas, Virginia, Ohio, Georgia",
+    "Florida, Vermont, Kentucky, Delaware, Maryland"
+   ],
+   "alsoAccepted": [
+    "The 13: New Hampshire, Massachusetts, Rhode Island, Connecticut, New York, New Jersey, Pennsylvania, Delaware, Maryland, Virginia, North Carolina, South Carolina, Georgia"
+   ]
+  },
+  {
+   "id": 82,
+   "category": "Colonial Period and Independence",
+   "question": "What founding document was written in 1787?",
+   "correct": "U.S. Constitution",
+   "wrong": [
+    "Declaration of Independence",
+    "Bill of Rights",
+    "Emancipation Proclamation"
+   ],
+   "alsoAccepted": []
+  },
+  {
+   "id": 83,
+   "category": "Colonial Period and Independence",
+   "question": "The Federalist Papers supported the passage of the U.S. Constitution. Name one of the writers.",
+   "correct": "James Madison",
+   "wrong": [
+    "Thomas Jefferson",
+    "George Washington",
+    "Benjamin Franklin"
+   ],
+   "alsoAccepted": [
+    "Alexander Hamilton",
+    "John Jay",
+    "Publius"
+   ]
+  },
+  {
+   "id": 84,
+   "category": "Colonial Period and Independence",
+   "question": "Why were the Federalist Papers important?",
+   "correct": "They helped people understand the U.S. Constitution.",
+   "wrong": [
+    "They declared independence from Britain.",
+    "They ended slavery.",
+    "They started the Civil War."
+   ],
+   "alsoAccepted": [
+    "They supported passing the U.S. Constitution."
+   ]
+  },
+  {
+   "id": 85,
+   "category": "Colonial Period and Independence",
+   "question": "Benjamin Franklin is famous for many things. Name one.",
+   "correct": "He was an inventor.",
+   "wrong": [
+    "He was the first president.",
+    "He wrote the Emancipation Proclamation.",
+    "He led the Union Army."
+   ],
+   "alsoAccepted": [
+    "Founded the first free public libraries",
+    "First Postmaster General of the United States",
+    "Helped write the Declaration of Independence",
+    "U.S. diplomat"
+   ]
+  },
+  {
+   "id": 86,
+   "category": "Colonial Period and Independence",
+   "question": "George Washington is famous for many things. Name one.",
+   "correct": "First president of the United States",
+   "wrong": [
+    "Wrote the Declaration of Independence",
+    "Freed the slaves",
+    "Bought the Louisiana Territory"
+   ],
+   "alsoAccepted": [
+    "\"Father of Our Country\"",
+    "General of the Continental Army",
+    "President of the Constitutional Convention"
+   ]
+  },
+  {
+   "id": 87,
+   "category": "Colonial Period and Independence",
+   "question": "Thomas Jefferson is famous for many things. Name one.",
+   "correct": "Writer of the Declaration of Independence",
+   "wrong": [
+    "First president of the United States",
+    "Led the country in the Civil War",
+    "Invented the light bulb"
+   ],
+   "alsoAccepted": [
+    "Third president of the United States",
+    "Doubled the size of the United States (Louisiana Purchase)",
+    "First Secretary of State",
+    "Founded the University of Virginia",
+    "Writer of the Virginia Statute on Religious Freedom"
+   ]
+  },
+  {
+   "id": 88,
+   "category": "Colonial Period and Independence",
+   "question": "James Madison is famous for many things. Name one.",
+   "correct": "\"Father of the Constitution\"",
+   "wrong": [
+    "First Secretary of the Treasury",
+    "Wrote the Declaration of Independence",
+    "Led the Continental Army"
+   ],
+   "alsoAccepted": [
+    "Fourth president of the United States",
+    "President during the War of 1812",
+    "One of the writers of the Federalist Papers"
+   ]
+  },
+  {
+   "id": 89,
+   "category": "Colonial Period and Independence",
+   "question": "Alexander Hamilton is famous for many things. Name one.",
+   "correct": "First Secretary of the Treasury",
+   "wrong": [
+    "Third president of the United States",
+    "Wrote the Declaration of Independence",
+    "Led the Union in the Civil War"
+   ],
+   "alsoAccepted": [
+    "One of the writers of the Federalist Papers",
+    "Helped establish the First Bank of the United States",
+    "Aide to General George Washington",
+    "Member of the Continental Congress"
+   ]
+  },
+  {
+   "id": 90,
+   "category": "The 1800s",
+   "question": "What territory did the United States buy from France in 1803?",
+   "correct": "Louisiana Territory",
+   "wrong": [
+    "Alaska",
+    "Florida",
+    "Texas"
+   ],
+   "alsoAccepted": [
+    "Louisiana"
+   ]
+  },
+  {
+   "id": 91,
+   "category": "The 1800s",
+   "question": "Name one war fought by the United States in the 1800s.",
+   "correct": "Civil War",
+   "wrong": [
+    "World War I",
+    "Korean War",
+    "Vietnam War"
+   ],
+   "alsoAccepted": [
+    "War of 1812",
+    "Mexican-American War",
+    "Spanish-American War"
+   ]
+  },
+  {
+   "id": 92,
+   "category": "The 1800s",
+   "question": "Name the U.S. war between the North and the South.",
+   "correct": "The Civil War",
+   "wrong": [
+    "The Revolutionary War",
+    "The War of 1812",
+    "The Mexican-American War"
+   ],
+   "alsoAccepted": []
+  },
+  {
+   "id": 93,
+   "category": "The 1800s",
+   "question": "The Civil War had many important events. Name one.",
+   "correct": "Battle of Gettysburg",
+   "wrong": [
+    "Battle of Yorktown",
+    "Pearl Harbor",
+    "Boston Tea Party"
+   ],
+   "alsoAccepted": [
+    "(Battle of) Fort Sumter",
+    "Emancipation Proclamation",
+    "(Battle of) Vicksburg",
+    "(Battle of) Antietam/Sharpsburg",
+    "Sherman's March",
+    "(Surrender at) Appomattox",
+    "Lincoln was assassinated"
+   ]
+  },
+  {
+   "id": 94,
+   "category": "The 1800s",
+   "question": "Abraham Lincoln is famous for many things. Name one.",
+   "correct": "Saved (or preserved) the Union",
+   "wrong": [
+    "First president of the United States",
+    "Wrote the Declaration of Independence",
+    "Bought Louisiana"
+   ],
+   "alsoAccepted": [
+    "Freed the slaves (Emancipation Proclamation)",
+    "Led the United States during the Civil War",
+    "16th president of the United States",
+    "Delivered the Gettysburg Address"
+   ]
+  },
+  {
+   "id": 95,
+   "category": "The 1800s",
+   "question": "What did the Emancipation Proclamation do?",
+   "correct": "Freed slaves in the Confederacy",
+   "wrong": [
+    "Gave women the right to vote",
+    "Declared independence from Britain",
+    "Started the Civil War"
+   ],
+   "alsoAccepted": [
+    "Freed slaves in the Confederate states",
+    "Freed slaves in most Southern states"
+   ]
+  },
+  {
+   "id": 96,
+   "category": "The 1800s",
+   "question": "What U.S. war ended slavery?",
+   "correct": "The Civil War",
+   "wrong": [
+    "The Revolutionary War",
+    "World War I",
+    "The War of 1812"
+   ],
+   "alsoAccepted": []
+  },
+  {
+   "id": 97,
+   "category": "The 1800s",
+   "question": "What amendment says all persons born or naturalized in the United States, and subject to the jurisdiction thereof, are U.S. citizens?",
+   "correct": "14th Amendment",
+   "wrong": [
+    "1st Amendment",
+    "10th Amendment",
+    "19th Amendment"
+   ],
+   "alsoAccepted": []
+  },
+  {
+   "id": 98,
+   "category": "The 1800s",
+   "question": "When did all men get the right to vote?",
+   "correct": "After the Civil War",
+   "wrong": [
+    "In 1776",
+    "After World War II",
+    "In 1920"
+   ],
+   "alsoAccepted": [
+    "During Reconstruction",
+    "(With the) 15th Amendment",
+    "1870"
+   ]
+  },
+  {
+   "id": 99,
+   "category": "The 1800s",
+   "question": "Name one leader of the women's rights movement in the 1800s.",
+   "correct": "Susan B. Anthony",
+   "wrong": [
+    "Martha Washington",
+    "Rosa Parks",
+    "Eleanor Roosevelt"
+   ],
+   "alsoAccepted": [
+    "Elizabeth Cady Stanton",
+    "Sojourner Truth",
+    "Harriet Tubman",
+    "Lucretia Mott",
+    "Lucy Stone"
+   ]
+  },
+  {
+   "id": 100,
+   "category": "Recent American History",
+   "question": "Name one war fought by the United States in the 1900s.",
+   "correct": "World War II",
+   "wrong": [
+    "Civil War",
+    "War of 1812",
+    "Revolutionary War"
+   ],
+   "alsoAccepted": [
+    "World War I",
+    "Korean War",
+    "Vietnam War",
+    "(Persian) Gulf War"
+   ]
+  },
+  {
+   "id": 101,
+   "category": "Recent American History",
+   "question": "Why did the United States enter World War I?",
+   "correct": "Because Germany attacked U.S. (civilian) ships",
+   "wrong": [
+    "Because Japan attacked Pearl Harbor",
+    "To stop the spread of communism",
+    "To force Iraq out of Kuwait"
+   ],
+   "alsoAccepted": [
+    "To support the Allied Powers (England, France, Italy, and Russia)",
+    "To oppose the Central Powers (Germany, Austria-Hungary, the Ottoman Empire, and Bulgaria)"
+   ]
+  },
+  {
+   "id": 102,
+   "category": "Recent American History",
+   "question": "When did all women get the right to vote?",
+   "correct": "1920",
+   "wrong": [
+    "1776",
+    "1865",
+    "1965"
+   ],
+   "alsoAccepted": [
+    "After World War I",
+    "(With the) 19th Amendment"
+   ]
+  },
+  {
+   "id": 103,
+   "category": "Recent American History",
+   "question": "What was the Great Depression?",
+   "correct": "Longest economic recession in modern history",
+   "wrong": [
+    "A war with Britain",
+    "A period of very fast growth",
+    "A big storm in 1929"
+   ],
+   "alsoAccepted": []
+  },
+  {
+   "id": 104,
+   "category": "Recent American History",
+   "question": "When did the Great Depression start?",
+   "correct": "The Great Crash (1929)",
+   "wrong": [
+    "After World War II",
+    "In 1812",
+    "In 1960"
+   ],
+   "alsoAccepted": [
+    "Stock market crash of 1929"
+   ]
+  },
+  {
+   "id": 105,
+   "category": "Recent American History",
+   "question": "Who was president during the Great Depression and World War II?",
+   "correct": "Franklin Roosevelt",
+   "wrong": [
+    "Theodore Roosevelt",
+    "Dwight Eisenhower",
+    "Woodrow Wilson"
+   ],
+   "alsoAccepted": []
+  },
+  {
+   "id": 106,
+   "category": "Recent American History",
+   "question": "Why did the United States enter World War II?",
+   "correct": "(Bombing of) Pearl Harbor",
+   "wrong": [
+    "Germany attacked U.S. ships in 1917",
+    "To stop the spread of communism in Korea",
+    "The September 11 attacks"
+   ],
+   "alsoAccepted": [
+    "Japanese attacked Pearl Harbor",
+    "To support the Allied Powers (England, France, and Russia)",
+    "To oppose the Axis Powers (Germany, Italy, and Japan)"
+   ]
+  },
+  {
+   "id": 107,
+   "category": "Recent American History",
+   "question": "Dwight Eisenhower is famous for many things. Name one.",
+   "correct": "General during World War II",
+   "wrong": [
+    "Wrote the Constitution",
+    "President during the Civil War",
+    "First man on the moon"
+   ],
+   "alsoAccepted": [
+    "President at the end of (during) the Korean War",
+    "34th president of the United States",
+    "Signed the Federal-Aid Highway Act of 1956 (Created the Interstate System)"
+   ]
+  },
+  {
+   "id": 108,
+   "category": "Recent American History",
+   "question": "Who was the United States' main rival during the Cold War?",
+   "correct": "Soviet Union",
+   "wrong": [
+    "Germany",
+    "Japan",
+    "Britain"
+   ],
+   "alsoAccepted": [
+    "USSR",
+    "Russia"
+   ]
+  },
+  {
+   "id": 109,
+   "category": "Recent American History",
+   "question": "During the Cold War, what was one main concern of the United States?",
+   "correct": "Communism",
+   "wrong": [
+    "Slavery",
+    "British taxes",
+    "The Great Depression"
+   ],
+   "alsoAccepted": [
+    "Nuclear war"
+   ]
+  },
+  {
+   "id": 110,
+   "category": "Recent American History",
+   "question": "Why did the United States enter the Korean War?",
+   "correct": "To stop the spread of communism",
+   "wrong": [
+    "Because Japan attacked Pearl Harbor",
+    "To force Iraq out of Kuwait",
+    "To win independence"
+   ],
+   "alsoAccepted": []
+  },
+  {
+   "id": 111,
+   "category": "Recent American History",
+   "question": "Why did the United States enter the Vietnam War?",
+   "correct": "To stop the spread of communism",
+   "wrong": [
+    "Because Germany attacked U.S. ships",
+    "To free Kuwait",
+    "To end slavery"
+   ],
+   "alsoAccepted": []
+  },
+  {
+   "id": 112,
+   "category": "Recent American History",
+   "question": "What did the civil rights movement do?",
+   "correct": "Fought to end racial discrimination",
+   "wrong": [
+    "Won independence from Britain",
+    "Ended the Cold War",
+    "Created the Interstate highways"
+   ],
+   "alsoAccepted": []
+  },
+  {
+   "id": 113,
+   "category": "Recent American History",
+   "question": "Martin Luther King, Jr. is famous for many things. Name one.",
+   "correct": "Fought for civil rights",
+   "wrong": [
+    "Was the 16th president",
+    "Wrote the Federalist Papers",
+    "Led the army in World War II"
+   ],
+   "alsoAccepted": [
+    "Worked for equality for all Americans",
+    "Worked to ensure that people would \"not be judged by the color of their skin, but by the content of their character\""
+   ]
+  },
+  {
+   "id": 114,
+   "category": "Recent American History",
+   "question": "Why did the United States enter the Persian Gulf War?",
+   "correct": "To force the Iraqi military from Kuwait",
+   "wrong": [
+    "To stop communism in Vietnam",
+    "Because of Pearl Harbor",
+    "To buy oil fields"
+   ],
+   "alsoAccepted": []
+  },
+  {
+   "id": 115,
+   "category": "Recent American History",
+   "question": "What major event happened on September 11, 2001 in the United States?",
+   "correct": "Terrorists attacked the United States",
+   "wrong": [
+    "The stock market crashed",
+    "Women got the right to vote",
+    "The Civil War ended"
+   ],
+   "alsoAccepted": [
+    "Terrorists took over two planes and crashed them into the World Trade Center in New York City",
+    "Terrorists took over a plane and crashed into the Pentagon in Arlington, Virginia",
+    "Terrorists took over a plane originally aimed at Washington, D.C., and crashed in a field in Pennsylvania"
+   ]
+  },
+  {
+   "id": 116,
+   "category": "Recent American History",
+   "question": "Name one U.S. military conflict after the September 11, 2001 attacks.",
+   "correct": "War in Afghanistan",
+   "wrong": [
+    "Korean War",
+    "Vietnam War",
+    "World War II"
+   ],
+   "alsoAccepted": [
+    "(Global) War on Terror",
+    "War in Iraq"
+   ]
+  },
+  {
+   "id": 117,
+   "category": "Recent American History",
+   "question": "Name one American Indian tribe in the United States.",
+   "correct": "Cherokee",
+   "wrong": [
+    "Aztec",
+    "Maori",
+    "Zulu"
+   ],
+   "alsoAccepted": [
+    "Any federally recognized tribe, for example Navajo, Sioux, Apache, Cheyenne, Iroquois, Seminole, Choctaw, Pueblo, Shawnee, Hopi"
+   ]
+  },
+  {
+   "id": 118,
+   "category": "Recent American History",
+   "question": "Name one example of an American innovation.",
+   "correct": "Airplane",
+   "wrong": [
+    "Printing press",
+    "Pyramids",
+    "Gunpowder"
+   ],
+   "alsoAccepted": [
+    "Light bulb",
+    "Automobile (cars, internal combustion engine)",
+    "Skyscrapers",
+    "Assembly line",
+    "Landing on the moon",
+    "Integrated circuit (IC)"
+   ]
+  },
+  {
+   "id": 119,
+   "category": "Symbols and Holidays",
+   "question": "What is the capital of the United States?",
+   "correct": "Washington, D.C.",
+   "wrong": [
+    "New York City",
+    "Philadelphia",
+    "Boston"
+   ],
+   "alsoAccepted": []
+  },
+  {
+   "id": 120,
+   "category": "Symbols and Holidays",
+   "question": "Where is the Statue of Liberty?",
+   "correct": "New York Harbor",
+   "wrong": [
+    "Washington, D.C.",
+    "Boston Harbor",
+    "San Francisco Bay"
+   ],
+   "alsoAccepted": [
+    "Liberty Island",
+    "(Also acceptable) New Jersey, near New York City, on the Hudson River"
+   ]
+  },
+  {
+   "id": 121,
+   "category": "Symbols and Holidays",
+   "question": "Why does the flag have 13 stripes?",
+   "correct": "Because there were 13 original colonies",
+   "wrong": [
+    "One for each president",
+    "For the 13 amendments",
+    "For the 13 largest states"
+   ],
+   "alsoAccepted": [
+    "Because the stripes represent the original colonies"
+   ]
+  },
+  {
+   "id": 122,
+   "category": "Symbols and Holidays",
+   "question": "Why does the flag have 50 stars?",
+   "correct": "Because there are 50 states",
+   "wrong": [
+    "One for each senator",
+    "For the 50 years of independence",
+    "For the original colonies"
+   ],
+   "alsoAccepted": [
+    "Because there is one star for each state",
+    "Because each star represents a state"
+   ]
+  },
+  {
+   "id": 123,
+   "category": "Symbols and Holidays",
+   "question": "What is the name of the national anthem?",
+   "correct": "The Star-Spangled Banner",
+   "wrong": [
+    "America the Beautiful",
+    "God Bless America",
+    "My Country, 'Tis of Thee"
+   ],
+   "alsoAccepted": []
+  },
+  {
+   "id": 124,
+   "category": "Symbols and Holidays",
+   "question": "The Nation's first motto was \"E Pluribus Unum.\" What does that mean?",
+   "correct": "Out of many, one",
+   "wrong": [
+    "In God we trust",
+    "Liberty for all",
+    "One nation under God"
+   ],
+   "alsoAccepted": [
+    "We all become one"
+   ]
+  },
+  {
+   "id": 125,
+   "category": "Symbols and Holidays",
+   "question": "What is Independence Day?",
+   "correct": "A holiday to celebrate U.S. independence (from Britain)",
+   "wrong": [
+    "A holiday to honor soldiers who died",
+    "A holiday for workers",
+    "The day the Constitution was signed"
+   ],
+   "alsoAccepted": [
+    "The country's birthday"
+   ]
+  },
+  {
+   "id": 126,
+   "category": "Symbols and Holidays",
+   "question": "Name three national U.S. holidays.",
+   "correct": "Independence Day, Thanksgiving Day, Labor Day",
+   "wrong": [
+    "Halloween, Valentine's Day, Easter",
+    "Mother's Day, Father's Day, Halloween",
+    "Earth Day, St. Patrick's Day, Groundhog Day"
+   ],
+   "alsoAccepted": [
+    "New Year's Day",
+    "Martin Luther King, Jr. Day",
+    "Presidents Day (Washington's Birthday)",
+    "Memorial Day",
+    "Columbus Day",
+    "Veterans Day",
+    "Christmas Day"
+   ]
+  },
+  {
+   "id": 127,
+   "category": "Symbols and Holidays",
+   "question": "What is Memorial Day?",
+   "correct": "A holiday to honor soldiers who died in military service",
+   "wrong": [
+    "A holiday to celebrate independence",
+    "A holiday for all workers",
+    "A holiday for the first president"
+   ],
+   "alsoAccepted": []
+  },
+  {
+   "id": 128,
+   "category": "Symbols and Holidays",
+   "question": "What is Veterans Day?",
+   "correct": "A holiday to honor people in the (U.S.) military",
+   "wrong": [
+    "A holiday to celebrate independence",
+    "A holiday for farmers",
+    "A holiday for the Constitution"
+   ],
+   "alsoAccepted": [
+    "A holiday to honor people who have served (in the U.S. military)"
+   ]
+  }
+ ]
+}

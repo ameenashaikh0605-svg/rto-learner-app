@@ -1,0 +1,1362 @@
+{
+ "examId": "in_learner_licence",
+ "title": "RTO Learner Licence Test",
+ "subtitle": "Practice road signs and rules for the LL test",
+ "mock": {
+  "size": 15,
+  "passMark": 9,
+  "maxWrong": 7,
+  "secondsPerQuestion": 30,
+  "stopEarly": false
+ },
+ "freeQuestionsPerCategory": 8,
+ "disclaimer": "This app is not affiliated with, endorsed by, or connected to any government body, the Ministry of Road Transport and Highways, Parivahan or any RTO. It is an independent study aid. Questions are original and based on public road rules. The real test format varies by state (most use 15 questions and 9 correct to pass). For official information visit parivahan.gov.in.",
+ "categories": [
+  "Mandatory signs",
+  "Warning and information signs",
+  "Rules of the road",
+  "Safe driving",
+  "Licence and documents"
+ ],
+ "questions": [
+  {
+   "id": 1,
+   "category": "Mandatory signs",
+   "question": "What does this sign mean?",
+   "correct": "Stop",
+   "wrong": [
+    "Height limit 3.5 metres",
+    "U-turn prohibited",
+    "Load limit 5 tonnes"
+   ],
+   "alsoAccepted": [],
+   "image": "assets/signs/stop.svg"
+  },
+  {
+   "id": 2,
+   "category": "Mandatory signs",
+   "question": "What does this sign mean?",
+   "correct": "Give way",
+   "wrong": [
+    "No entry",
+    "Left turn prohibited",
+    "Right turn prohibited"
+   ],
+   "alsoAccepted": [],
+   "image": "assets/signs/give_way.svg"
+  },
+  {
+   "id": 3,
+   "category": "Mandatory signs",
+   "question": "What does this sign mean?",
+   "correct": "No entry",
+   "wrong": [
+    "Width limit 2 metres",
+    "Give way",
+    "No parking"
+   ],
+   "alsoAccepted": [],
+   "image": "assets/signs/no_entry.svg"
+  },
+  {
+   "id": 4,
+   "category": "Mandatory signs",
+   "question": "What does this sign mean?",
+   "correct": "Left turn prohibited",
+   "wrong": [
+    "Give way",
+    "No entry",
+    "Restriction ends"
+   ],
+   "alsoAccepted": [],
+   "image": "assets/signs/no_left_turn.svg"
+  },
+  {
+   "id": 5,
+   "category": "Mandatory signs",
+   "question": "What does this sign mean?",
+   "correct": "Right turn prohibited",
+   "wrong": [
+    "Restriction ends",
+    "No entry",
+    "No stopping or standing"
+   ],
+   "alsoAccepted": [],
+   "image": "assets/signs/no_right_turn.svg"
+  },
+  {
+   "id": 6,
+   "category": "Mandatory signs",
+   "question": "What does this sign mean?",
+   "correct": "U-turn prohibited",
+   "wrong": [
+    "No entry",
+    "Restriction ends",
+    "Give way"
+   ],
+   "alsoAccepted": [],
+   "image": "assets/signs/no_u_turn.svg"
+  },
+  {
+   "id": 7,
+   "category": "Mandatory signs",
+   "question": "What does this sign mean?",
+   "correct": "Overtaking prohibited",
+   "wrong": [
+    "Left turn prohibited",
+    "No stopping or standing",
+    "Give way"
+   ],
+   "alsoAccepted": [],
+   "image": "assets/signs/no_overtaking.svg"
+  },
+  {
+   "id": 8,
+   "category": "Mandatory signs",
+   "question": "What does this sign mean?",
+   "correct": "No parking",
+   "wrong": [
+    "Load limit 5 tonnes",
+    "Give way",
+    "No stopping or standing"
+   ],
+   "alsoAccepted": [],
+   "image": "assets/signs/no_parking.svg"
+  },
+  {
+   "id": 9,
+   "category": "Mandatory signs",
+   "question": "What does this sign mean?",
+   "correct": "No stopping or standing",
+   "wrong": [
+    "Give way",
+    "Right turn prohibited",
+    "Maximum speed limit 50 km/h"
+   ],
+   "alsoAccepted": [],
+   "image": "assets/signs/no_stopping.svg"
+  },
+  {
+   "id": 10,
+   "category": "Mandatory signs",
+   "question": "What does this sign mean?",
+   "correct": "Horn prohibited",
+   "wrong": [
+    "Restriction ends",
+    "Right turn prohibited",
+    "Left turn prohibited"
+   ],
+   "alsoAccepted": [],
+   "image": "assets/signs/horn_prohibited.svg"
+  },
+  {
+   "id": 11,
+   "category": "Mandatory signs",
+   "question": "What does this sign mean?",
+   "correct": "Maximum speed limit 50 km/h",
+   "wrong": [
+    "Horn prohibited",
+    "U-turn prohibited",
+    "Left turn prohibited"
+   ],
+   "alsoAccepted": [],
+   "image": "assets/signs/speed_limit.svg"
+  },
+  {
+   "id": 12,
+   "category": "Mandatory signs",
+   "question": "What does this sign mean?",
+   "correct": "Height limit 3.5 metres",
+   "wrong": [
+    "Overtaking prohibited",
+    "Width limit 2 metres",
+    "Left turn prohibited"
+   ],
+   "alsoAccepted": [],
+   "image": "assets/signs/height_limit.svg"
+  },
+  {
+   "id": 13,
+   "category": "Mandatory signs",
+   "question": "What does this sign mean?",
+   "correct": "Width limit 2 metres",
+   "wrong": [
+    "Compulsory keep left",
+    "No entry",
+    "Give way"
+   ],
+   "alsoAccepted": [],
+   "image": "assets/signs/width_limit.svg"
+  },
+  {
+   "id": 14,
+   "category": "Mandatory signs",
+   "question": "What does this sign mean?",
+   "correct": "Load limit 5 tonnes",
+   "wrong": [
+    "Overtaking prohibited",
+    "Compulsory turn left",
+    "Restriction ends"
+   ],
+   "alsoAccepted": [],
+   "image": "assets/signs/load_limit.svg"
+  },
+  {
+   "id": 15,
+   "category": "Mandatory signs",
+   "question": "What does this sign mean?",
+   "correct": "Restriction ends",
+   "wrong": [
+    "Maximum speed limit 50 km/h",
+    "Compulsory ahead only",
+    "Compulsory turn right"
+   ],
+   "alsoAccepted": [],
+   "image": "assets/signs/restriction_ends.svg"
+  },
+  {
+   "id": 16,
+   "category": "Mandatory signs",
+   "question": "What does this sign mean?",
+   "correct": "Compulsory ahead only",
+   "wrong": [
+    "Height limit 3.5 metres",
+    "Horn prohibited",
+    "No parking"
+   ],
+   "alsoAccepted": [],
+   "image": "assets/signs/compulsory_ahead.svg"
+  },
+  {
+   "id": 17,
+   "category": "Mandatory signs",
+   "question": "What does this sign mean?",
+   "correct": "Compulsory turn left",
+   "wrong": [
+    "U-turn prohibited",
+    "No parking",
+    "No entry"
+   ],
+   "alsoAccepted": [],
+   "image": "assets/signs/compulsory_left.svg"
+  },
+  {
+   "id": 18,
+   "category": "Mandatory signs",
+   "question": "What does this sign mean?",
+   "correct": "Compulsory turn right",
+   "wrong": [
+    "Horn prohibited",
+    "Compulsory turn left",
+    "Compulsory ahead only"
+   ],
+   "alsoAccepted": [],
+   "image": "assets/signs/compulsory_right.svg"
+  },
+  {
+   "id": 19,
+   "category": "Mandatory signs",
+   "question": "What does this sign mean?",
+   "correct": "Compulsory keep left",
+   "wrong": [
+    "Maximum speed limit 50 km/h",
+    "Restriction ends",
+    "Horn prohibited"
+   ],
+   "alsoAccepted": [],
+   "image": "assets/signs/keep_left.svg"
+  },
+  {
+   "id": 20,
+   "category": "Warning and information signs",
+   "question": "What does this sign mean?",
+   "correct": "Right hand curve ahead",
+   "wrong": [
+    "Road widens ahead",
+    "Right hairpin bend ahead",
+    "Steep ascent ahead"
+   ],
+   "alsoAccepted": [],
+   "image": "assets/signs/right_curve.svg"
+  },
+  {
+   "id": 21,
+   "category": "Warning and information signs",
+   "question": "What does this sign mean?",
+   "correct": "Left hand curve ahead",
+   "wrong": [
+    "Narrow road ahead",
+    "Y-intersection ahead",
+    "Cross road ahead"
+   ],
+   "alsoAccepted": [],
+   "image": "assets/signs/left_curve.svg"
+  },
+  {
+   "id": 22,
+   "category": "Warning and information signs",
+   "question": "What does this sign mean?",
+   "correct": "Right hairpin bend ahead",
+   "wrong": [
+    "T-intersection ahead",
+    "Cross road ahead",
+    "Roundabout ahead"
+   ],
+   "alsoAccepted": [],
+   "image": "assets/signs/right_hairpin.svg"
+  },
+  {
+   "id": 23,
+   "category": "Warning and information signs",
+   "question": "What does this sign mean?",
+   "correct": "Cross road ahead",
+   "wrong": [
+    "Y-intersection ahead",
+    "Right hand curve ahead",
+    "Left hand curve ahead"
+   ],
+   "alsoAccepted": [],
+   "image": "assets/signs/cross_road.svg"
+  },
+  {
+   "id": 24,
+   "category": "Warning and information signs",
+   "question": "What does this sign mean?",
+   "correct": "Side road right",
+   "wrong": [
+    "Narrow road ahead",
+    "Road widens ahead",
+    "T-intersection ahead"
+   ],
+   "alsoAccepted": [],
+   "image": "assets/signs/side_road_right.svg"
+  },
+  {
+   "id": 25,
+   "category": "Warning and information signs",
+   "question": "What does this sign mean?",
+   "correct": "Side road left",
+   "wrong": [
+    "T-intersection ahead",
+    "Slippery road",
+    "Road widens ahead"
+   ],
+   "alsoAccepted": [],
+   "image": "assets/signs/side_road_left.svg"
+  },
+  {
+   "id": 26,
+   "category": "Warning and information signs",
+   "question": "What does this sign mean?",
+   "correct": "T-intersection ahead",
+   "wrong": [
+    "Roundabout ahead",
+    "Road widens ahead",
+    "Slippery road"
+   ],
+   "alsoAccepted": [],
+   "image": "assets/signs/t_intersection.svg"
+  },
+  {
+   "id": 27,
+   "category": "Warning and information signs",
+   "question": "What does this sign mean?",
+   "correct": "Y-intersection ahead",
+   "wrong": [
+    "Left hand curve ahead",
+    "Slippery road",
+    "Side road right"
+   ],
+   "alsoAccepted": [],
+   "image": "assets/signs/y_intersection.svg"
+  },
+  {
+   "id": 28,
+   "category": "Warning and information signs",
+   "question": "What does this sign mean?",
+   "correct": "Roundabout ahead",
+   "wrong": [
+    "Y-intersection ahead",
+    "Steep ascent ahead",
+    "Left hand curve ahead"
+   ],
+   "alsoAccepted": [],
+   "image": "assets/signs/roundabout.svg"
+  },
+  {
+   "id": 29,
+   "category": "Warning and information signs",
+   "question": "What does this sign mean?",
+   "correct": "Narrow road ahead",
+   "wrong": [
+    "Right hand curve ahead",
+    "Side road right",
+    "Road widens ahead"
+   ],
+   "alsoAccepted": [],
+   "image": "assets/signs/narrow_road.svg"
+  },
+  {
+   "id": 30,
+   "category": "Warning and information signs",
+   "question": "What does this sign mean?",
+   "correct": "Road widens ahead",
+   "wrong": [
+    "Steep ascent ahead",
+    "Y-intersection ahead",
+    "Side road right"
+   ],
+   "alsoAccepted": [],
+   "image": "assets/signs/road_widens.svg"
+  },
+  {
+   "id": 31,
+   "category": "Warning and information signs",
+   "question": "What does this sign mean?",
+   "correct": "Parking area",
+   "wrong": [
+    "No parking",
+    "Bus stop",
+    "Petrol pump"
+   ],
+   "alsoAccepted": [],
+   "image": "assets/signs/parking.svg"
+  },
+  {
+   "id": 32,
+   "category": "Warning and information signs",
+   "question": "What does this sign mean?",
+   "correct": "First aid post",
+   "wrong": [
+    "Parking area",
+    "Bus stop",
+    "Petrol pump"
+   ],
+   "alsoAccepted": [],
+   "image": "assets/signs/first_aid.svg"
+  },
+  {
+   "id": 33,
+   "category": "Rules of the road",
+   "question": "On Indian roads, which side of the road should you normally drive on?",
+   "correct": "The left side",
+   "wrong": [
+    "The right side",
+    "The middle of the road",
+    "Any side that is free"
+   ],
+   "alsoAccepted": [],
+   "explanation": "India drives on the left. Keep to the left and let faster traffic pass on your right."
+  },
+  {
+   "id": 34,
+   "category": "Rules of the road",
+   "question": "From which side should you normally overtake another vehicle?",
+   "correct": "From the right",
+   "wrong": [
+    "From the left",
+    "From either side",
+    "From the footpath side"
+   ],
+   "alsoAccepted": [],
+   "explanation": "Overtake from the right. You may pass on the left only when the vehicle ahead has signalled a right turn and moved to turn."
+  },
+  {
+   "id": 35,
+   "category": "Rules of the road",
+   "question": "The vehicle ahead has signalled a right turn and moved to the centre. How may you pass it?",
+   "correct": "On its left, carefully",
+   "wrong": [
+    "On its right, at speed",
+    "You must never pass it",
+    "By sounding the horn and pushing past"
+   ],
+   "alsoAccepted": [],
+   "explanation": "When a vehicle is turning right, you may pass it on the left if the way is clear."
+  },
+  {
+   "id": 36,
+   "category": "Rules of the road",
+   "question": "When is overtaking not allowed?",
+   "correct": "When the road ahead is not clearly visible",
+   "wrong": [
+    "On a straight, clear road",
+    "When the vehicle ahead signals you to pass",
+    "On a wide highway with no traffic"
+   ],
+   "alsoAccepted": [],
+   "explanation": "Do not overtake at bends, hill tops, junctions, pedestrian crossings or whenever you cannot see the road ahead clearly."
+  },
+  {
+   "id": 37,
+   "category": "Rules of the road",
+   "question": "Another vehicle is overtaking you. What should you do?",
+   "correct": "Keep left and do not speed up",
+   "wrong": [
+    "Speed up so it cannot pass",
+    "Move to the right",
+    "Brake suddenly"
+   ],
+   "alsoAccepted": [],
+   "explanation": "Help the overtaking vehicle pass safely. Never increase your speed while being overtaken."
+  },
+  {
+   "id": 38,
+   "category": "Rules of the road",
+   "question": "A pedestrian is waiting to cross at a zebra crossing. What should you do?",
+   "correct": "Slow down and stop to let them cross",
+   "wrong": [
+    "Sound the horn and continue",
+    "Speed up to pass before they step out",
+    "Flash your headlights and continue"
+   ],
+   "alsoAccepted": [],
+   "explanation": "Pedestrians on or waiting at a zebra crossing have the right of way."
+  },
+  {
+   "id": 39,
+   "category": "Rules of the road",
+   "question": "An ambulance or fire engine is coming with its siren on. What should you do?",
+   "correct": "Move to the side of the road and let it pass",
+   "wrong": [
+    "Follow closely behind it",
+    "Keep going at the same speed",
+    "Stop in the middle of the road"
+   ],
+   "alsoAccepted": [],
+   "explanation": "Emergency vehicles have priority. Give way by pulling to the side."
+  },
+  {
+   "id": 40,
+   "category": "Rules of the road",
+   "question": "What does a steady red traffic light mean?",
+   "correct": "Stop before the stop line",
+   "wrong": [
+    "Slow down and go",
+    "Go if the road is clear",
+    "Turn left only"
+   ],
+   "alsoAccepted": [],
+   "explanation": "Stop behind the stop line and wait for green."
+  },
+  {
+   "id": 41,
+   "category": "Rules of the road",
+   "question": "What does a steady amber (yellow) traffic light mean?",
+   "correct": "Stop, unless you are too close to stop safely",
+   "wrong": [
+    "Speed up to cross",
+    "Go, the light is about to turn green",
+    "Turn right only"
+   ],
+   "alsoAccepted": [],
+   "explanation": "Amber warns that red is next. Stop if you safely can."
+  },
+  {
+   "id": 42,
+   "category": "Rules of the road",
+   "question": "What does a flashing amber traffic light mean?",
+   "correct": "Slow down and proceed with caution",
+   "wrong": [
+    "Stop and wait",
+    "The signal is broken, so stop",
+    "Pedestrians only"
+   ],
+   "alsoAccepted": [],
+   "explanation": "A flashing amber light means go ahead carefully, watching for other traffic."
+  },
+  {
+   "id": 43,
+   "category": "Rules of the road",
+   "question": "What does a flashing red traffic light mean?",
+   "correct": "Stop, then go when it is safe",
+   "wrong": [
+    "Go without stopping",
+    "Slow down only",
+    "Reverse"
+   ],
+   "alsoAccepted": [],
+   "explanation": "Treat a flashing red like a stop sign."
+  },
+  {
+   "id": 44,
+   "category": "Rules of the road",
+   "question": "The traffic light is green but a traffic police officer signals you to stop. What do you do?",
+   "correct": "Obey the police officer and stop",
+   "wrong": [
+    "Obey the green light and go",
+    "Sound the horn",
+    "Turn around"
+   ],
+   "alsoAccepted": [],
+   "explanation": "Signals from a traffic police officer take priority over traffic lights."
+  },
+  {
+   "id": 45,
+   "category": "Rules of the road",
+   "question": "At a roundabout, which vehicles should you give way to?",
+   "correct": "Vehicles already in the roundabout, coming from your right",
+   "wrong": [
+    "Vehicles on your left",
+    "No one, if you are faster",
+    "Only buses"
+   ],
+   "alsoAccepted": [],
+   "explanation": "In India, traffic moves clockwise around a roundabout. Give way to vehicles coming from your right."
+  },
+  {
+   "id": 46,
+   "category": "Rules of the road",
+   "question": "At a junction with no signals or signs, whom should you give way to?",
+   "correct": "Traffic coming from your right",
+   "wrong": [
+    "Traffic coming from your left",
+    "Whoever honks first",
+    "Smaller vehicles"
+   ],
+   "alsoAccepted": [],
+   "explanation": "At an uncontrolled junction, give way to traffic on your right and to vehicles on the main road."
+  },
+  {
+   "id": 47,
+   "category": "Rules of the road",
+   "question": "You are entering a main road from a side road. What should you do?",
+   "correct": "Give way to traffic on the main road",
+   "wrong": [
+    "Enter quickly while honking",
+    "Expect main road traffic to stop for you",
+    "Enter without looking"
+   ],
+   "alsoAccepted": [],
+   "explanation": "Traffic on the main road has priority."
+  },
+  {
+   "id": 48,
+   "category": "Rules of the road",
+   "question": "What does a continuous (solid) line in the centre of the road mean?",
+   "correct": "Do not cross it or overtake",
+   "wrong": [
+    "You may overtake",
+    "Parking is allowed",
+    "It marks a bus lane"
+   ],
+   "alsoAccepted": [],
+   "explanation": "A solid centre line means no crossing or overtaking."
+  },
+  {
+   "id": 49,
+   "category": "Rules of the road",
+   "question": "What does a broken (dashed) white line in the centre of the road mean?",
+   "correct": "You may cross it to overtake when safe",
+   "wrong": [
+    "You must never cross it",
+    "Stop at the line",
+    "Road ends ahead"
+   ],
+   "alsoAccepted": [],
+   "explanation": "Broken lines may be crossed when it is safe to do so."
+  },
+  {
+   "id": 50,
+   "category": "Rules of the road",
+   "question": "Where should you stop at a red light?",
+   "correct": "Before the stop line",
+   "wrong": [
+    "On the zebra crossing",
+    "In the middle of the junction",
+    "After the stop line"
+   ],
+   "alsoAccepted": [],
+   "explanation": "Never stop on the pedestrian crossing. Stop behind the stop line."
+  },
+  {
+   "id": 51,
+   "category": "Rules of the road",
+   "question": "Where is parking not allowed?",
+   "correct": "Near a road junction or bend",
+   "wrong": [
+    "In a marked parking area",
+    "In your own garage",
+    "At a parking lot"
+   ],
+   "alsoAccepted": [],
+   "explanation": "Do not park near junctions, bends, hill tops, bus stops, pedestrian crossings, fire hydrants, or on a footpath."
+  },
+  {
+   "id": 52,
+   "category": "Rules of the road",
+   "question": "Is parking allowed on a footpath?",
+   "correct": "No, never",
+   "wrong": [
+    "Yes, for two-wheelers",
+    "Yes, for 10 minutes",
+    "Yes, at night"
+   ],
+   "alsoAccepted": [],
+   "explanation": "Footpaths are for pedestrians. Parking on them is not allowed."
+  },
+  {
+   "id": 53,
+   "category": "Rules of the road",
+   "question": "Where should you not park your vehicle?",
+   "correct": "In front of a hospital entrance",
+   "wrong": [
+    "In a marked parking bay",
+    "In a paid parking lot",
+    "On your own property"
+   ],
+   "alsoAccepted": [],
+   "explanation": "Never block hospital entrances, fire hydrants, bus stops or gates."
+  },
+  {
+   "id": 54,
+   "category": "Rules of the road",
+   "question": "Where is the use of the horn prohibited?",
+   "correct": "Near hospitals and courts",
+   "wrong": [
+    "On highways",
+    "At night only",
+    "On bridges"
+   ],
+   "alsoAccepted": [],
+   "explanation": "Areas near hospitals, courts and schools are silence zones. Do not sound your horn there."
+  },
+  {
+   "id": 55,
+   "category": "Rules of the road",
+   "question": "When should the horn be used?",
+   "correct": "Only when necessary, to warn of danger",
+   "wrong": [
+    "Continuously in traffic",
+    "To greet friends",
+    "When the signal turns green"
+   ],
+   "alsoAccepted": [],
+   "explanation": "Use the horn sparingly. Needless or continuous honking is not allowed."
+  },
+  {
+   "id": 56,
+   "category": "Rules of the road",
+   "question": "Are pressure horns or multi-tone horns allowed?",
+   "correct": "No",
+   "wrong": [
+    "Yes",
+    "Yes, on highways",
+    "Yes, at night"
+   ],
+   "alsoAccepted": [],
+   "explanation": "Air pressure horns and multi-tone horns are not allowed on vehicles."
+  },
+  {
+   "id": 57,
+   "category": "Rules of the road",
+   "question": "How many people may ride on a motorcycle?",
+   "correct": "The rider and one pillion rider",
+   "wrong": [
+    "The rider and two pillion riders",
+    "Any number if they fit",
+    "Only the rider"
+   ],
+   "alsoAccepted": [],
+   "explanation": "A two-wheeler may carry only one pillion rider, seated properly behind the rider."
+  },
+  {
+   "id": 58,
+   "category": "Rules of the road",
+   "question": "What should you do at an unmanned railway level crossing?",
+   "correct": "Stop, look both ways, then cross when it is clear",
+   "wrong": [
+    "Cross fast without stopping",
+    "Sound the horn and cross",
+    "Follow the vehicle ahead closely"
+   ],
+   "alsoAccepted": [],
+   "explanation": "At an unmanned crossing, stop, check both directions for trains, and cross only when it is safe."
+  },
+  {
+   "id": 59,
+   "category": "Rules of the road",
+   "question": "The gate of a railway level crossing is closed. What should you do?",
+   "correct": "Stop and wait until it opens",
+   "wrong": [
+    "Go around the gate",
+    "Cross under the barrier",
+    "Honk until it opens"
+   ],
+   "alsoAccepted": [],
+   "explanation": "Never try to cross a closed level-crossing gate."
+  },
+  {
+   "id": 60,
+   "category": "Rules of the road",
+   "question": "You want to turn right. Where should your vehicle be?",
+   "correct": "Near the centre of the road",
+   "wrong": [
+    "At the far left edge",
+    "On the footpath",
+    "On the wrong side of the road"
+   ],
+   "alsoAccepted": [],
+   "explanation": "Before turning right, move towards the centre of the road and signal."
+  },
+  {
+   "id": 61,
+   "category": "Rules of the road",
+   "question": "You want to turn left. Where should your vehicle be?",
+   "correct": "Close to the left side of the road",
+   "wrong": [
+    "In the centre of the road",
+    "On the right side",
+    "Anywhere"
+   ],
+   "alsoAccepted": [],
+   "explanation": "Keep to the left before turning left."
+  },
+  {
+   "id": 62,
+   "category": "Rules of the road",
+   "question": "What does a driver extending the right arm straight out of the window mean?",
+   "correct": "I am turning right",
+   "wrong": [
+    "I am turning left",
+    "I am stopping",
+    "You may overtake"
+   ],
+   "alsoAccepted": [],
+   "explanation": "An arm held straight out to the right signals a right turn."
+  },
+  {
+   "id": 63,
+   "category": "Rules of the road",
+   "question": "A driver moves the right arm up and down, palm facing down. What does it mean?",
+   "correct": "I am slowing down",
+   "wrong": [
+    "I am turning right",
+    "Overtake me now",
+    "I am reversing"
+   ],
+   "alsoAccepted": [],
+   "explanation": "Moving the arm up and down signals that the vehicle is slowing down."
+  },
+  {
+   "id": 64,
+   "category": "Rules of the road",
+   "question": "Is driving in reverse allowed on a one-way road?",
+   "correct": "No",
+   "wrong": [
+    "Yes, always",
+    "Yes, at night",
+    "Yes, for short distances"
+   ],
+   "alsoAccepted": [],
+   "explanation": "Do not reverse into or along a one-way road."
+  },
+  {
+   "id": 65,
+   "category": "Rules of the road",
+   "question": "On a one-way road, can you drive against the direction of traffic?",
+   "correct": "No",
+   "wrong": [
+    "Yes, if it is a shortcut",
+    "Yes, on a two-wheeler",
+    "Yes, at night"
+   ],
+   "alsoAccepted": [],
+   "explanation": "Driving against the flow on a one-way road is an offence and very dangerous."
+  },
+  {
+   "id": 66,
+   "category": "Rules of the road",
+   "question": "On a hill road, who should normally get the right of way?",
+   "correct": "Vehicles going uphill",
+   "wrong": [
+    "Vehicles going downhill",
+    "The vehicle that honks first",
+    "The smaller vehicle"
+   ],
+   "alsoAccepted": [],
+   "explanation": "On narrow hill roads, give way to vehicles coming uphill, since restarting on a slope is harder."
+  },
+  {
+   "id": 67,
+   "category": "Safe driving",
+   "question": "What is the legal blood alcohol limit for driving in India?",
+   "correct": "30 mg per 100 ml of blood",
+   "wrong": [
+    "80 mg per 100 ml of blood",
+    "100 mg per 100 ml of blood",
+    "There is no limit"
+   ],
+   "alsoAccepted": [],
+   "explanation": "Driving with more than 30 mg of alcohol per 100 ml of blood is an offence. The safest choice is not to drink at all."
+  },
+  {
+   "id": 68,
+   "category": "Safe driving",
+   "question": "Is it allowed to use a hand-held mobile phone while driving?",
+   "correct": "No",
+   "wrong": [
+    "Yes, for short calls",
+    "Yes, at traffic lights",
+    "Yes, on highways"
+   ],
+   "alsoAccepted": [],
+   "explanation": "Using a hand-held phone while driving is an offence. Pull over safely if you must make a call."
+  },
+  {
+   "id": 69,
+   "category": "Safe driving",
+   "question": "Who must wear a helmet on a motorcycle?",
+   "correct": "Both the rider and the pillion rider",
+   "wrong": [
+    "Only the rider",
+    "Only on highways",
+    "Only at night"
+   ],
+   "alsoAccepted": [],
+   "explanation": "Rider and pillion must wear a properly fastened helmet."
+  },
+  {
+   "id": 70,
+   "category": "Safe driving",
+   "question": "Who should wear a seat belt in a car?",
+   "correct": "The driver and all passengers",
+   "wrong": [
+    "Only the driver",
+    "Only front seat passengers on highways",
+    "No one in the city"
+   ],
+   "alsoAccepted": [],
+   "explanation": "Seat belts save lives. Everyone in the car should wear one."
+  },
+  {
+   "id": 71,
+   "category": "Safe driving",
+   "question": "When driving at night and a vehicle comes from the front, what should you do with your headlights?",
+   "correct": "Switch to dipped (low) beam",
+   "wrong": [
+    "Keep high beam on",
+    "Switch off the headlights",
+    "Flash high beam repeatedly"
+   ],
+   "alsoAccepted": [],
+   "explanation": "High beam dazzles oncoming drivers. Dip your lights."
+  },
+  {
+   "id": 72,
+   "category": "Safe driving",
+   "question": "How much distance should you keep from the vehicle in front?",
+   "correct": "Enough to stop safely if it brakes suddenly",
+   "wrong": [
+    "As close as possible",
+    "Exactly one metre",
+    "No gap is needed in slow traffic"
+   ],
+   "alsoAccepted": [],
+   "explanation": "Keep a safe gap, and increase it in rain, fog or at higher speed."
+  },
+  {
+   "id": 73,
+   "category": "Safe driving",
+   "question": "What should you do when driving in thick fog?",
+   "correct": "Slow down and use dipped headlights or fog lamps",
+   "wrong": [
+    "Use high beam",
+    "Drive fast to get out of the fog",
+    "Follow the vehicle ahead very closely"
+   ],
+   "alsoAccepted": [],
+   "explanation": "High beam reflects off fog and reduces visibility. Slow down and use low beam or fog lamps."
+  },
+  {
+   "id": 74,
+   "category": "Safe driving",
+   "question": "What should you do when approaching a bend?",
+   "correct": "Slow down and keep left",
+   "wrong": [
+    "Speed up",
+    "Overtake the vehicle ahead",
+    "Move to the right side"
+   ],
+   "alsoAccepted": [],
+   "explanation": "Reduce speed before the bend and stay on your side."
+  },
+  {
+   "id": 75,
+   "category": "Safe driving",
+   "question": "What are hazard warning lights used for?",
+   "correct": "To warn others that your vehicle is stopped and is a hazard",
+   "wrong": [
+    "To park anywhere you like",
+    "To drive faster",
+    "To signal a lane change"
+   ],
+   "alsoAccepted": [],
+   "explanation": "Use hazard lights when your vehicle has broken down or is stopped in an unsafe place."
+  },
+  {
+   "id": 76,
+   "category": "Safe driving",
+   "question": "Why are rear-view mirrors fitted?",
+   "correct": "To see traffic behind you",
+   "wrong": [
+    "To look at yourself",
+    "To see the road ahead",
+    "To check the tyres"
+   ],
+   "alsoAccepted": [],
+   "explanation": "Check your mirrors often, especially before changing lanes, turning or slowing down."
+  },
+  {
+   "id": 77,
+   "category": "Safe driving",
+   "question": "When should you check your mirrors?",
+   "correct": "Before changing lanes, turning or slowing down",
+   "wrong": [
+    "Only when parking",
+    "Never while moving",
+    "Only on highways"
+   ],
+   "alsoAccepted": [],
+   "explanation": "Mirror, signal, then manoeuvre."
+  },
+  {
+   "id": 78,
+   "category": "Safe driving",
+   "question": "A school bus has stopped to let children get off. What should you do?",
+   "correct": "Slow down and be ready to stop",
+   "wrong": [
+    "Speed up to pass it",
+    "Sound the horn continuously",
+    "Overtake from the left"
+   ],
+   "alsoAccepted": [],
+   "explanation": "Children may run across the road. Drive slowly and carefully."
+  },
+  {
+   "id": 79,
+   "category": "Safe driving",
+   "question": "Near a school, how should you drive?",
+   "correct": "Slowly and carefully, watching for children",
+   "wrong": [
+    "Fast, to clear the area quickly",
+    "Using the horn all the time",
+    "As usual"
+   ],
+   "alsoAccepted": [],
+   "explanation": "School zones need extra care and low speed."
+  },
+  {
+   "id": 80,
+   "category": "Safe driving",
+   "question": "What should you do if you feel sleepy while driving?",
+   "correct": "Stop safely and rest",
+   "wrong": [
+    "Drive faster to reach sooner",
+    "Open the window and continue",
+    "Play loud music and continue"
+   ],
+   "alsoAccepted": [],
+   "explanation": "Drowsy driving causes many crashes. Take a break."
+  },
+  {
+   "id": 81,
+   "category": "Safe driving",
+   "question": "The road is wet after rain. What should you do?",
+   "correct": "Drive slower and keep a bigger gap",
+   "wrong": [
+    "Drive at normal speed",
+    "Brake hard on curves",
+    "Follow closely behind others"
+   ],
+   "alsoAccepted": [],
+   "explanation": "Wet roads are slippery and need longer stopping distances."
+  },
+  {
+   "id": 82,
+   "category": "Safe driving",
+   "question": "Your brakes fail on a slope. What is the safest thing to do?",
+   "correct": "Change to a lower gear and use the hand brake gently",
+   "wrong": [
+    "Switch off the engine and steer",
+    "Shift to neutral",
+    "Jump out"
+   ],
+   "alsoAccepted": [],
+   "explanation": "Lower gears use engine braking to slow you. Apply the hand brake gradually."
+  },
+  {
+   "id": 83,
+   "category": "Safe driving",
+   "question": "You are involved in an accident and someone is injured. What should you do?",
+   "correct": "Get medical help for the injured and inform the police",
+   "wrong": [
+    "Leave the place quickly",
+    "Wait for the other driver to act",
+    "Move the vehicles and continue"
+   ],
+   "alsoAccepted": [],
+   "explanation": "The driver must help get the injured to medical care and report the accident to the police."
+  },
+  {
+   "id": 84,
+   "category": "Safe driving",
+   "question": "Within how much time should a road accident be reported to the police?",
+   "correct": "Within 24 hours",
+   "wrong": [
+    "Within 7 days",
+    "Within a month",
+    "There is no need"
+   ],
+   "alsoAccepted": [],
+   "explanation": "If not reported on the spot, an accident must be reported to the nearest police station within 24 hours."
+  },
+  {
+   "id": 85,
+   "category": "Safe driving",
+   "question": "What is a \"Good Samaritan\" under Indian road law?",
+   "correct": "A bystander who helps an accident victim in good faith",
+   "wrong": [
+    "A traffic police officer",
+    "An insurance agent",
+    "The owner of the vehicle"
+   ],
+   "alsoAccepted": [],
+   "explanation": "The law protects people who help road accident victims in good faith from harassment and liability."
+  },
+  {
+   "id": 86,
+   "category": "Safe driving",
+   "question": "What is the all-in-one emergency number in India?",
+   "correct": "112",
+   "wrong": [
+    "100 only",
+    "999",
+    "911"
+   ],
+   "alsoAccepted": [],
+   "explanation": "Dial 112 for police, fire or ambulance help."
+  },
+  {
+   "id": 87,
+   "category": "Safe driving",
+   "question": "Why should you not drive with worn-out tyres?",
+   "correct": "They can skid or burst, causing an accident",
+   "wrong": [
+    "They use more fuel only",
+    "They make the car louder",
+    "There is no problem"
+   ],
+   "alsoAccepted": [],
+   "explanation": "Worn tyres have less grip, especially on wet roads."
+  },
+  {
+   "id": 88,
+   "category": "Safe driving",
+   "question": "When should you use the indicator?",
+   "correct": "Before turning or changing lanes",
+   "wrong": [
+    "After you have turned",
+    "Only at night",
+    "Only on highways"
+   ],
+   "alsoAccepted": [],
+   "explanation": "Signal early so others know what you plan to do."
+  },
+  {
+   "id": 89,
+   "category": "Safe driving",
+   "question": "Can a vehicle carry more passengers or load than it is permitted to?",
+   "correct": "No",
+   "wrong": [
+    "Yes, for short trips",
+    "Yes, if the driver is careful",
+    "Yes, at night"
+   ],
+   "alsoAccepted": [],
+   "explanation": "Overloading makes a vehicle unstable and is an offence."
+  },
+  {
+   "id": 90,
+   "category": "Licence and documents",
+   "question": "How long is a learner's licence valid?",
+   "correct": "6 months",
+   "wrong": [
+    "1 month",
+    "1 year",
+    "5 years"
+   ],
+   "alsoAccepted": [],
+   "explanation": "A learner's licence is valid for six months."
+  },
+  {
+   "id": 91,
+   "category": "Licence and documents",
+   "question": "After getting a learner's licence, when can you apply for a permanent driving licence?",
+   "correct": "After 30 days",
+   "wrong": [
+    "Immediately",
+    "After 6 months only",
+    "After 1 year"
+   ],
+   "alsoAccepted": [],
+   "explanation": "You can take the driving test for a permanent licence 30 days after the learner's licence is issued, and before it expires."
+  },
+  {
+   "id": 92,
+   "category": "Licence and documents",
+   "question": "What must a learner display on the vehicle?",
+   "correct": "An \"L\" sign on the front and back",
+   "wrong": [
+    "A red flag",
+    "A \"P\" sign",
+    "Nothing"
+   ],
+   "alsoAccepted": [],
+   "explanation": "The letter L in red on a white background must be shown on the front and rear of the vehicle."
+  },
+  {
+   "id": 93,
+   "category": "Licence and documents",
+   "question": "A learner is driving a car. Who must sit beside them?",
+   "correct": "A person holding a valid driving licence for that vehicle",
+   "wrong": [
+    "Any adult",
+    "No one",
+    "A child"
+   ],
+   "alsoAccepted": [],
+   "explanation": "A learner driving a car must have a licensed driver beside them who can take control."
+  },
+  {
+   "id": 94,
+   "category": "Licence and documents",
+   "question": "What is the minimum age to get a licence for a motorcycle with gears?",
+   "correct": "18 years",
+   "wrong": [
+    "16 years",
+    "21 years",
+    "25 years"
+   ],
+   "alsoAccepted": [],
+   "explanation": "You must be 18 for a licence for motorcycles with gear and for cars."
+  },
+  {
+   "id": 95,
+   "category": "Licence and documents",
+   "question": "At what age can you get a licence for a gearless two-wheeler up to 50 cc, with a parent's consent?",
+   "correct": "16 years",
+   "wrong": [
+    "14 years",
+    "18 years",
+    "12 years"
+   ],
+   "alsoAccepted": [],
+   "explanation": "At 16 you can get a licence for a gearless motorcycle with an engine up to 50 cc, with consent of a parent or guardian."
+  },
+  {
+   "id": 96,
+   "category": "Licence and documents",
+   "question": "Which documents must you carry while driving a private vehicle?",
+   "correct": "Driving licence, registration certificate, insurance and PUC certificate",
+   "wrong": [
+    "Only your Aadhaar card",
+    "Only the vehicle's bill",
+    "Only the insurance"
+   ],
+   "alsoAccepted": [],
+   "explanation": "Carry your licence, RC, insurance certificate and Pollution Under Control (PUC) certificate."
+  },
+  {
+   "id": 97,
+   "category": "Licence and documents",
+   "question": "Are digital documents in DigiLocker or mParivahan accepted?",
+   "correct": "Yes, they are valid",
+   "wrong": [
+    "No, only paper copies",
+    "Only in some cities",
+    "Only for two-wheelers"
+   ],
+   "alsoAccepted": [],
+   "explanation": "Documents in DigiLocker or mParivahan are accepted as valid by traffic police."
+  },
+  {
+   "id": 98,
+   "category": "Licence and documents",
+   "question": "Which insurance is compulsory for every motor vehicle?",
+   "correct": "Third-party insurance",
+   "wrong": [
+    "Comprehensive insurance only",
+    "Life insurance",
+    "No insurance is compulsory"
+   ],
+   "alsoAccepted": [],
+   "explanation": "At least third-party insurance is required by law."
+  },
+  {
+   "id": 99,
+   "category": "Licence and documents",
+   "question": "What does PUC stand for?",
+   "correct": "Pollution Under Control",
+   "wrong": [
+    "Public Use Certificate",
+    "Permit Under Control",
+    "Police Use Certificate"
+   ],
+   "alsoAccepted": [],
+   "explanation": "A PUC certificate shows your vehicle's emissions are within limits."
+  },
+  {
+   "id": 100,
+   "category": "Licence and documents",
+   "question": "How long is the registration of a new private car valid?",
+   "correct": "15 years",
+   "wrong": [
+    "5 years",
+    "10 years",
+    "For life"
+   ],
+   "alsoAccepted": [],
+   "explanation": "Registration of a non-transport vehicle is valid for 15 years and can then be renewed."
+  },
+  {
+   "id": 101,
+   "category": "Licence and documents",
+   "question": "Can you drive a vehicle with an expired driving licence?",
+   "correct": "No",
+   "wrong": [
+    "Yes, for one year",
+    "Yes, in your own city",
+    "Yes, if you are careful"
+   ],
+   "alsoAccepted": [],
+   "explanation": "Renew your licence before it expires."
+  },
+  {
+   "id": 102,
+   "category": "Licence and documents",
+   "question": "Can you lend your vehicle to someone without a driving licence?",
+   "correct": "No",
+   "wrong": [
+    "Yes, if they are an adult",
+    "Yes, for short trips",
+    "Yes, if they know how to drive"
+   ],
+   "alsoAccepted": [],
+   "explanation": "The owner can be held responsible for letting an unlicensed person drive."
+  },
+  {
+   "id": 103,
+   "category": "Licence and documents",
+   "question": "Can a person under 18 drive a car on public roads?",
+   "correct": "No",
+   "wrong": [
+    "Yes, with a parent's consent",
+    "Yes, at night",
+    "Yes, on small roads"
+   ],
+   "alsoAccepted": [],
+   "explanation": "A licence to drive a car is issued only from age 18. Guardians or owners can be penalised if a minor drives."
+  }
+ ]
+}
