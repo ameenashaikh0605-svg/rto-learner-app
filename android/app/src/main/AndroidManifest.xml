@@ -6,7 +6,7 @@
         <!-- AdMob app ID. This is Google's test ID: replace with your own before release. -->
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-3940256099942544~3347511713"/>
+            android:value="ca-app-pub-8194384991395432~2790861937"/>
         <activity
             android:name=".MainActivity"
             android:exported="true"

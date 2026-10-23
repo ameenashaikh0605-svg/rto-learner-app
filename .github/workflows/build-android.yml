@@ -38,7 +38,8 @@ jobs:
           storeFile=upload-keystore.jks
           PROPS
       - run: flutter build apk --release
-      - run: flutter build appbundle --release
+      # Only the Play Store bundle shows real ads; the test APK keeps test ads.
+      - run: flutter build appbundle --release --dart-define=REAL_ADS=true
       - uses: actions/upload-artifact@v5
         with:
           name: android-builds
