@@ -10,7 +10,7 @@ class AppConfig {
   /// one-time product with this exact ID in Google Play Console.
   static const unlockProductId = 'unlock_all';
 
-  static const privacyPolicyUrl = 'https://example.com/privacy';
+  static const privacyPolicyUrl = 'https://docs.google.com/document/d/1DbF73SOiMluOq4sN4-xCIPmc0dS23r5D_GJDNlMZKz8/view';
 
   static bool get isAndroid => !kIsWeb && defaultTargetPlatform == TargetPlatform.android;
   static bool get isIOS => !kIsWeb && defaultTargetPlatform == TargetPlatform.iOS;
